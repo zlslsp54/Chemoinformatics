@@ -24,3 +24,5 @@
 ### 5. Result
 
   - It can be seen that similar amino acids are indeed grouped roughly together, with the charged and polar amino acids in one region (e.g. Arg, Lys, Glu, Asp), the small hydrophobic amino acids forming another group (e.g. Ala, Pro, Val) and the aromatic amino acids in a third region(e.g. Phe, Trp)
+
+end
